@@ -16,6 +16,7 @@ import java.util.Collections;
  * @author dancye
  * @author Paul Bonenfant Jan 2020
  */
+
 public class GroupOfCards {
 
     //The group of cards, stored in an ArrayList
